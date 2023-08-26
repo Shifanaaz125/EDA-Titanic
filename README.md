@@ -25,5 +25,5 @@ Thank you for taking the time to review my notebook! I'd greatly appreciate your
 
 1. Data preprocessing: Did I miss any critical steps?
 2. Correct Method: Is chosen analytical approch is appropriate for this problem?
-3. Clarity: Is my explanation clear and easy to follow?
+3. Clarity: Is my explanation clear and easy to follow?  
 Your insights will help me improve this analysis. Feel free to comment directly on the notebook or reach out to me. Thank you!
