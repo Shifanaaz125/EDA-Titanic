@@ -19,3 +19,11 @@
 5. The dataset's 'Embarked' column, representing the port of embarkation, is analyzed next. The count of passengers from different cities is shown, and a pie chart demonstrates the distribution. It reveals that the majority of passengers (72.3%) boarded the Titanic from Southampton (S).
 
 *Overall, the analysis of the Titanic dataset provides insights into the demographics of the survivors, including their age distribution, gender composition, class distribution, and the cities they embarked from. The project contributes to a more comprehensive understanding of the people-related dynamics surrounding the Titanic disaster.*
+
+# Request for Feedback
+Thank you for taking the time to review my notebook! I'd greatly appreciate your feedback on the following aspects:
+
+1. Data preprocessing: Did I miss any critical steps?
+2. Correct Method: Is chosen analytical approch is appropriate for this problem?
+3. Clarity: Is my explanation clear and easy to follow?
+Your insights will help me improve this analysis. Feel free to comment directly on the notebook or reach out to me. Thank you!
