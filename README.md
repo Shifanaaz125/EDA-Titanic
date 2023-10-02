@@ -1,3 +1,7 @@
+# Titanic Dataset Analysis
+
+![image](https://github.com/Shifanaaz125/EDA-Titanic/assets/120267469/cfc2128c-f101-47f1-9432-7627c45f0e47)
+
 # Problem Statment
 1) The objective of this study is to analyze the people-related trends present in the Titanic datasets in order to gain a comprehensive understanding of various aspects. Firstly, we aim to explore the number of survivors and delve deeper into their characteristics, including age and class distribution. By examining these factors, we seek to uncover patterns and insights that shed light on the demographics of the survivors aboard the Titanic.
 2) Furthermore, an essential aspect of our investigation involves investigating the ratio of male to female genders among the survivors. This analysis will provide valuable information regarding the gender composition of the survivor population and offer insights into potential gender-related disparities in survival rates.
